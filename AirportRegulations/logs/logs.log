@@ -1,0 +1,186 @@
+[INFO ] 04:16:15 [Thread-1] action.TerminalAction: Plane Boing-1 has started landing
+[INFO ] 04:16:15 [Thread-2] action.TerminalAction: Plane Boing-2 has started landing
+[INFO ] 04:16:15 [Thread-3] action.TerminalAction: Plane Boing-3 has started landing
+[INFO ] 04:16:15 [Thread-4] action.TerminalAction: Plane Boing-4 has started landing
+[INFO ] 04:16:15 [Thread-5] action.TerminalAction: Plane Boing-5 has started landing
+[INFO ] 04:16:15 [Thread-6] action.TerminalAction: Plane Boing-6 has started landing
+[INFO ] 04:16:15 [Thread-7] action.TerminalAction: Plane Boing-7 has started landing
+[INFO ] 04:16:15 [Thread-8] action.TerminalAction: Plane Boing-8 has started landing
+[INFO ] 04:16:15 [Thread-9] action.TerminalAction: Plane Boing-9 has started landing
+[INFO ] 04:16:15 [Thread-10] action.TerminalAction: Plane Boing-10 has started landing
+[INFO ] 04:16:15 [Thread-10] action.AirportActions: ...Currently there is no free terminal. Plane Boing-10 is waiting for plane departure
+[INFO ] 04:16:15 [Thread-3] action.AirportActions: ...Currently there is no free terminal. Plane Boing-3 is waiting for plane departure
+[INFO ] 04:16:15 [Thread-9] action.AirportActions: ...Currently there is no free terminal. Plane Boing-9 is waiting for plane departure
+[INFO ] 04:16:15 [Thread-2] action.AirportActions: Plane Boing-2 has arrived to terminal A
+[INFO ] 04:16:15 [Thread-1] action.AirportActions: Plane Boing-1 has arrived to terminal B
+[INFO ] 04:16:15 [Thread-2] action.TerminalAction: Unloading passengers from Boing-2 has started
+[INFO ] 04:16:15 [Thread-1] action.TerminalAction: Unloading passengers from Boing-1 has started
+[INFO ] 04:16:15 [Thread-8] action.AirportActions: Plane Boing-8 has arrived to terminal C
+[INFO ] 04:16:15 [Thread-8] action.TerminalAction: Unloading passengers from Boing-8 has started
+[INFO ] 04:16:15 [Thread-4] action.AirportActions: ...Currently there is no free terminal. Plane Boing-4 is waiting for plane departure
+[INFO ] 04:16:15 [Thread-6] action.AirportActions: Plane Boing-6 has arrived to terminal D
+[INFO ] 04:16:15 [Thread-6] action.TerminalAction: Unloading passengers from Boing-6 has started
+[INFO ] 04:16:15 [Thread-7] action.AirportActions: ...Currently there is no free terminal. Plane Boing-7 is waiting for plane departure
+[INFO ] 04:16:15 [Thread-5] action.AirportActions: Plane Boing-5 has arrived to terminal E
+[INFO ] 04:16:15 [Thread-5] action.TerminalAction: Unloading passengers from Boing-5 has started
+[INFO ] 04:16:15 [Thread-1] action.TerminalAction: Unloading passengers from Boing-1 has finished
+[INFO ] 04:16:15 [Thread-1] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:15 [Thread-8] action.TerminalAction: Unloading passengers from Boing-8 has finished
+[INFO ] 04:16:15 [Thread-8] action.TerminalAction: Passengers walking through GROUND
+[INFO ] 04:16:15 [Thread-2] action.TerminalAction: Unloading passengers from Boing-2 has finished
+[INFO ] 04:16:15 [Thread-2] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:15 [Thread-1] action.TerminalAction: Passengers from plane Boing-1 are waiting for their luggage
+[INFO ] 04:16:16 [Thread-2] action.TerminalAction: Passengers from plane Boing-2 having passport control for border pass
+[INFO ] 04:16:16 [Thread-6] action.TerminalAction: Unloading passengers from Boing-6 has finished
+[INFO ] 04:16:16 [Thread-6] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:16 [Thread-8] action.TerminalAction: Passengers from plane Boing-8 are waiting for their luggage
+[INFO ] 04:16:16 [Thread-2] action.TerminalAction: Passengers from plane Boing-2 are waiting for their luggage
+[INFO ] 04:16:16 [Thread-6] action.TerminalAction: Passengers from plane Boing-6 having passport control for border pass
+[INFO ] 04:16:16 [Thread-5] action.TerminalAction: Unloading passengers from Boing-5 has finished
+[INFO ] 04:16:16 [Thread-5] action.TerminalAction: Passengers walking through GROUND
+[INFO ] 04:16:16 [Thread-6] action.TerminalAction: Passengers from plane Boing-6 are waiting for their luggage
+[INFO ] 04:16:16 [Thread-5] action.TerminalAction: Passengers from plane Boing-5 having passport control for border pass
+[INFO ] 04:16:16 [Thread-1] action.TerminalAction: Luggage pick up of passengers from plane Boing-1 has finished
+[INFO ] 04:16:16 [Thread-1] action.TerminalAction: Plane Boing-1 is cleaning by airport cleaning service
+[INFO ] 04:16:16 [Thread-5] action.TerminalAction: Passengers from plane Boing-5 are waiting for their luggage
+[INFO ] 04:16:16 [Thread-8] action.TerminalAction: Luggage pick up of passengers from plane Boing-8 has finished
+[INFO ] 04:16:16 [Thread-8] action.TerminalAction: Plane Boing-8 is cleaning by airport cleaning service
+[INFO ] 04:16:16 [Thread-10] action.AirportActions: ...Currently there is no free terminal. Plane Boing-10 is waiting for plane departure
+[INFO ] 04:16:16 [Thread-3] action.AirportActions: ...Currently there is no free terminal. Plane Boing-3 is waiting for plane departure
+[INFO ] 04:16:16 [Thread-9] action.AirportActions: ...Currently there is no free terminal. Plane Boing-9 is waiting for plane departure
+[INFO ] 04:16:16 [Thread-2] action.TerminalAction: Luggage pick up of passengers from plane Boing-2 has finished
+[INFO ] 04:16:16 [Thread-2] action.TerminalAction: Plane Boing-2 is cleaning by airport cleaning service
+[INFO ] 04:16:16 [Thread-4] action.AirportActions: ...Currently there is no free terminal. Plane Boing-4 is waiting for plane departure
+[INFO ] 04:16:16 [Thread-7] action.AirportActions: ...Currently there is no free terminal. Plane Boing-7 is waiting for plane departure
+[INFO ] 04:16:17 [Thread-1] action.TerminalAction: Plane is ready to accept passengers
+[INFO ] 04:16:17 [Thread-1] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:17 [Thread-6] action.TerminalAction: Luggage pick up of passengers from plane Boing-6 has finished
+[INFO ] 04:16:17 [Thread-6] action.TerminalAction: Plane Boing-6 is cleaning by airport cleaning service
+[INFO ] 04:16:17 [Thread-1] action.TerminalAction: Loading passengers to Boing-1 has started
+[INFO ] 04:16:17 [Thread-8] action.TerminalAction: Plane is ready to accept passengers
+[INFO ] 04:16:17 [Thread-8] action.TerminalAction: Passengers walking through GROUND
+[INFO ] 04:16:17 [Thread-1] action.TerminalAction: Loading passengers to Boing-1 has finished
+[INFO ] 04:16:17 [Thread-1] action.TerminalAction: Plane Boing-1 has started preparing for departure
+[INFO ] 04:16:17 [Thread-1] action.AirportActions: Plane Boing-1 has left from terminal
+[DEBUG] 04:16:17 [Thread-1] action.AirportActions: Now number of planes currently at airport is 4 after Boing-1 has left the terminal B
+[DEBUG] 04:16:17 [Thread-1] action.AirportActions: List of planes currently at airport: [Plane{name='Boing-2', maxCapacity=300, currentCapacity=295, flightRange=HIGH, flightType=INTERNATIONAL, terminalLanded=Terminal{name=A, isEmpty=false}}, Plane{name='Boing-5', maxCapacity=750, currentCapacity=555, flightRange=HIGH, flightType=INTERNATIONAL, terminalLanded=Terminal{name=E, isEmpty=false}}, Plane{name='Boing-6', maxCapacity=400, currentCapacity=400, flightRange=HIGH, flightType=INTERNATIONAL, terminalLanded=Terminal{name=D, isEmpty=false}}, Plane{name='Boing-8', maxCapacity=350, currentCapacity=255, flightRange=HIGH, flightType=DOMESTIC, terminalLanded=Terminal{name=C, isEmpty=false}}]
+[INFO ] 04:16:17 [Thread-8] action.TerminalAction: Loading passengers to Boing-8 has started
+[INFO ] 04:16:17 [Thread-2] action.TerminalAction: Plane is ready to accept passengers
+[INFO ] 04:16:17 [Thread-2] action.TerminalAction: Passengers from plane Boing-2 having passport control for border pass
+[INFO ] 04:16:17 [Thread-5] action.TerminalAction: Luggage pick up of passengers from plane Boing-5 has finished
+[INFO ] 04:16:17 [Thread-5] action.TerminalAction: Plane Boing-5 is cleaning by airport cleaning service
+[INFO ] 04:16:17 [Thread-3] action.AirportActions: ...Currently there is no free terminal. Plane Boing-3 is waiting for plane departure
+[INFO ] 04:16:17 [Thread-2] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:17 [Thread-9] action.AirportActions: ...Currently there is no free terminal. Plane Boing-9 is waiting for plane departure
+[INFO ] 04:16:17 [Thread-10] action.AirportActions: Plane Boing-10 has arrived to terminal B
+[INFO ] 04:16:17 [Thread-10] action.TerminalAction: Unloading passengers from Boing-10 has started
+[INFO ] 04:16:17 [Thread-4] action.AirportActions: ...Currently there is no free terminal. Plane Boing-4 is waiting for plane departure
+[INFO ] 04:16:17 [Thread-7] action.AirportActions: ...Currently there is no free terminal. Plane Boing-7 is waiting for plane departure
+[INFO ] 04:16:17 [Thread-2] action.TerminalAction: Loading passengers to Boing-2 has started
+[INFO ] 04:16:17 [Thread-10] action.TerminalAction: Unloading passengers from Boing-10 has finished
+[INFO ] 04:16:17 [Thread-10] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:17 [Thread-8] action.TerminalAction: Loading passengers to Boing-8 has finished
+[INFO ] 04:16:17 [Thread-8] action.TerminalAction: Plane Boing-8 has started preparing for departure
+[INFO ] 04:16:17 [Thread-10] action.TerminalAction: Passengers from plane Boing-10 having passport control for border pass
+[INFO ] 04:16:17 [Thread-8] action.AirportActions: Plane Boing-8 has left from terminal
+[DEBUG] 04:16:17 [Thread-8] action.AirportActions: Now number of planes currently at airport is 4 after Boing-8 has left the terminal C
+[DEBUG] 04:16:17 [Thread-8] action.AirportActions: List of planes currently at airport: [Plane{name='Boing-2', maxCapacity=300, currentCapacity=295, flightRange=HIGH, flightType=INTERNATIONAL, terminalLanded=Terminal{name=A, isEmpty=false}}, Plane{name='Boing-5', maxCapacity=750, currentCapacity=555, flightRange=HIGH, flightType=INTERNATIONAL, terminalLanded=Terminal{name=E, isEmpty=false}}, Plane{name='Boing-6', maxCapacity=400, currentCapacity=400, flightRange=HIGH, flightType=INTERNATIONAL, terminalLanded=Terminal{name=D, isEmpty=false}}, Plane{name='Boing-10', maxCapacity=150, currentCapacity=135, flightRange=HIGH, flightType=INTERNATIONAL, terminalLanded=Terminal{name=B, isEmpty=false}}]
+[INFO ] 04:16:18 [Thread-10] action.TerminalAction: Passengers from plane Boing-10 are waiting for their luggage
+[INFO ] 04:16:18 [Thread-2] action.TerminalAction: Loading passengers to Boing-2 has finished
+[INFO ] 04:16:18 [Thread-2] action.TerminalAction: Plane Boing-2 has started preparing for departure
+[INFO ] 04:16:18 [Thread-2] action.AirportActions: Plane Boing-2 has left from terminal
+[DEBUG] 04:16:18 [Thread-2] action.AirportActions: Now number of planes currently at airport is 3 after Boing-2 has left the terminal A
+[DEBUG] 04:16:18 [Thread-2] action.AirportActions: List of planes currently at airport: [Plane{name='Boing-5', maxCapacity=750, currentCapacity=555, flightRange=HIGH, flightType=INTERNATIONAL, terminalLanded=Terminal{name=E, isEmpty=false}}, Plane{name='Boing-6', maxCapacity=400, currentCapacity=400, flightRange=HIGH, flightType=INTERNATIONAL, terminalLanded=Terminal{name=D, isEmpty=false}}, Plane{name='Boing-10', maxCapacity=150, currentCapacity=135, flightRange=HIGH, flightType=INTERNATIONAL, terminalLanded=Terminal{name=B, isEmpty=false}}]
+[INFO ] 04:16:18 [Thread-6] action.TerminalAction: Plane is ready to accept passengers
+[INFO ] 04:16:18 [Thread-6] action.TerminalAction: Passengers from plane Boing-6 having passport control for border pass
+[INFO ] 04:16:18 [Thread-10] action.TerminalAction: Luggage pick up of passengers from plane Boing-10 has finished
+[INFO ] 04:16:18 [Thread-10] action.TerminalAction: Plane Boing-10 is cleaning by airport cleaning service
+[INFO ] 04:16:18 [Thread-6] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:18 [Thread-6] action.TerminalAction: Loading passengers to Boing-6 has started
+[INFO ] 04:16:18 [Thread-10] action.TerminalAction: Plane is ready to accept passengers
+[INFO ] 04:16:18 [Thread-10] action.TerminalAction: Passengers from plane Boing-10 having passport control for border pass
+[INFO ] 04:16:18 [Thread-3] action.AirportActions: Plane Boing-3 has arrived to terminal A
+[INFO ] 04:16:18 [Thread-3] action.TerminalAction: Unloading passengers from Boing-3 has started
+[INFO ] 04:16:18 [Thread-7] action.AirportActions: ...Currently there is no free terminal. Plane Boing-7 is waiting for plane departure
+[INFO ] 04:16:18 [Thread-4] action.AirportActions: ...Currently there is no free terminal. Plane Boing-4 is waiting for plane departure
+[INFO ] 04:16:18 [Thread-10] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:18 [Thread-9] action.AirportActions: Plane Boing-9 has arrived to terminal C
+[INFO ] 04:16:18 [Thread-9] action.TerminalAction: Unloading passengers from Boing-9 has started
+[INFO ] 04:16:18 [Thread-10] action.TerminalAction: Loading passengers to Boing-10 has started
+[INFO ] 04:16:18 [Thread-3] action.TerminalAction: Unloading passengers from Boing-3 has finished
+[INFO ] 04:16:18 [Thread-3] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:18 [Thread-6] action.TerminalAction: Loading passengers to Boing-6 has finished
+[INFO ] 04:16:18 [Thread-6] action.TerminalAction: Plane Boing-6 has started preparing for departure
+[INFO ] 04:16:18 [Thread-3] action.TerminalAction: Passengers from plane Boing-3 are waiting for their luggage
+[INFO ] 04:16:18 [Thread-6] action.AirportActions: Plane Boing-6 has left from terminal
+[DEBUG] 04:16:18 [Thread-6] action.AirportActions: Now number of planes currently at airport is 4 after Boing-6 has left the terminal D
+[DEBUG] 04:16:18 [Thread-6] action.AirportActions: List of planes currently at airport: [Plane{name='Boing-5', maxCapacity=750, currentCapacity=555, flightRange=HIGH, flightType=INTERNATIONAL, terminalLanded=Terminal{name=E, isEmpty=false}}, Plane{name='Boing-10', maxCapacity=150, currentCapacity=135, flightRange=HIGH, flightType=INTERNATIONAL, terminalLanded=Terminal{name=B, isEmpty=false}}, Plane{name='Boing-3', maxCapacity=200, currentCapacity=200, flightRange=MEDIUM, flightType=DOMESTIC, terminalLanded=Terminal{name=A, isEmpty=false}}, Plane{name='Boing-9', maxCapacity=700, currentCapacity=655, flightRange=MEDIUM, flightType=INTERNATIONAL, terminalLanded=Terminal{name=C, isEmpty=false}}]
+[INFO ] 04:16:19 [Thread-10] action.TerminalAction: Loading passengers to Boing-10 has finished
+[INFO ] 04:16:19 [Thread-10] action.TerminalAction: Plane Boing-10 has started preparing for departure
+[INFO ] 04:16:19 [Thread-10] action.AirportActions: Plane Boing-10 has left from terminal
+[DEBUG] 04:16:19 [Thread-10] action.AirportActions: Now number of planes currently at airport is 3 after Boing-10 has left the terminal B
+[DEBUG] 04:16:19 [Thread-10] action.AirportActions: List of planes currently at airport: [Plane{name='Boing-5', maxCapacity=750, currentCapacity=555, flightRange=HIGH, flightType=INTERNATIONAL, terminalLanded=Terminal{name=E, isEmpty=false}}, Plane{name='Boing-3', maxCapacity=200, currentCapacity=200, flightRange=MEDIUM, flightType=DOMESTIC, terminalLanded=Terminal{name=A, isEmpty=false}}, Plane{name='Boing-9', maxCapacity=700, currentCapacity=655, flightRange=MEDIUM, flightType=INTERNATIONAL, terminalLanded=Terminal{name=C, isEmpty=false}}]
+[INFO ] 04:16:19 [Thread-5] action.TerminalAction: Plane is ready to accept passengers
+[INFO ] 04:16:19 [Thread-5] action.TerminalAction: Passengers from plane Boing-5 having passport control for border pass
+[INFO ] 04:16:19 [Thread-9] action.TerminalAction: Unloading passengers from Boing-9 has finished
+[INFO ] 04:16:19 [Thread-9] action.TerminalAction: Passengers walking through GROUND
+[INFO ] 04:16:19 [Thread-5] action.TerminalAction: Passengers walking through GROUND
+[INFO ] 04:16:19 [Thread-3] action.TerminalAction: Luggage pick up of passengers from plane Boing-3 has finished
+[INFO ] 04:16:19 [Thread-3] action.TerminalAction: Plane Boing-3 is cleaning by airport cleaning service
+[INFO ] 04:16:19 [Thread-9] action.TerminalAction: Passengers from plane Boing-9 having passport control for border pass
+[INFO ] 04:16:19 [Thread-5] action.TerminalAction: Loading passengers to Boing-5 has started
+[INFO ] 04:16:19 [Thread-9] action.TerminalAction: Passengers from plane Boing-9 are waiting for their luggage
+[INFO ] 04:16:19 [Thread-7] action.AirportActions: Plane Boing-7 has arrived to terminal B
+[INFO ] 04:16:19 [Thread-7] action.TerminalAction: Unloading passengers from Boing-7 has started
+[INFO ] 04:16:19 [Thread-4] action.AirportActions: Plane Boing-4 has arrived to terminal D
+[INFO ] 04:16:19 [Thread-4] action.TerminalAction: Unloading passengers from Boing-4 has started
+[INFO ] 04:16:19 [Thread-7] action.TerminalAction: Unloading passengers from Boing-7 has finished
+[INFO ] 04:16:19 [Thread-7] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:19 [Thread-4] action.TerminalAction: Unloading passengers from Boing-4 has finished
+[INFO ] 04:16:19 [Thread-4] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:19 [Thread-3] action.TerminalAction: Plane is ready to accept passengers
+[INFO ] 04:16:19 [Thread-3] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:20 [Thread-7] action.TerminalAction: Passengers from plane Boing-7 are waiting for their luggage
+[INFO ] 04:16:20 [Thread-4] action.TerminalAction: Passengers from plane Boing-4 are waiting for their luggage
+[INFO ] 04:16:20 [Thread-3] action.TerminalAction: Loading passengers to Boing-3 has started
+[INFO ] 04:16:20 [Thread-5] action.TerminalAction: Loading passengers to Boing-5 has finished
+[INFO ] 04:16:20 [Thread-5] action.TerminalAction: Plane Boing-5 has started preparing for departure
+[INFO ] 04:16:20 [Thread-5] action.AirportActions: Plane Boing-5 has left from terminal
+[DEBUG] 04:16:20 [Thread-5] action.AirportActions: Now number of planes currently at airport is 4 after Boing-5 has left the terminal E
+[DEBUG] 04:16:20 [Thread-5] action.AirportActions: List of planes currently at airport: [Plane{name='Boing-3', maxCapacity=200, currentCapacity=200, flightRange=MEDIUM, flightType=DOMESTIC, terminalLanded=Terminal{name=A, isEmpty=false}}, Plane{name='Boing-9', maxCapacity=700, currentCapacity=655, flightRange=MEDIUM, flightType=INTERNATIONAL, terminalLanded=Terminal{name=C, isEmpty=false}}, Plane{name='Boing-4', maxCapacity=250, currentCapacity=245, flightRange=LOW, flightType=DOMESTIC, terminalLanded=Terminal{name=D, isEmpty=false}}, Plane{name='Boing-7', maxCapacity=250, currentCapacity=233, flightRange=LOW, flightType=DOMESTIC, terminalLanded=Terminal{name=B, isEmpty=false}}]
+[INFO ] 04:16:20 [Thread-3] action.TerminalAction: Loading passengers to Boing-3 has finished
+[INFO ] 04:16:20 [Thread-3] action.TerminalAction: Plane Boing-3 has started preparing for departure
+[INFO ] 04:16:20 [Thread-3] action.AirportActions: Plane Boing-3 has left from terminal
+[DEBUG] 04:16:20 [Thread-3] action.AirportActions: Now number of planes currently at airport is 3 after Boing-3 has left the terminal A
+[DEBUG] 04:16:20 [Thread-3] action.AirportActions: List of planes currently at airport: [Plane{name='Boing-9', maxCapacity=700, currentCapacity=655, flightRange=MEDIUM, flightType=INTERNATIONAL, terminalLanded=Terminal{name=C, isEmpty=false}}, Plane{name='Boing-4', maxCapacity=250, currentCapacity=245, flightRange=LOW, flightType=DOMESTIC, terminalLanded=Terminal{name=D, isEmpty=false}}, Plane{name='Boing-7', maxCapacity=250, currentCapacity=233, flightRange=LOW, flightType=DOMESTIC, terminalLanded=Terminal{name=B, isEmpty=false}}]
+[INFO ] 04:16:20 [Thread-7] action.TerminalAction: Luggage pick up of passengers from plane Boing-7 has finished
+[INFO ] 04:16:20 [Thread-7] action.TerminalAction: Plane Boing-7 is cleaning by airport cleaning service
+[INFO ] 04:16:20 [Thread-4] action.TerminalAction: Luggage pick up of passengers from plane Boing-4 has finished
+[INFO ] 04:16:20 [Thread-4] action.TerminalAction: Plane Boing-4 is cleaning by airport cleaning service
+[INFO ] 04:16:20 [Thread-9] action.TerminalAction: Luggage pick up of passengers from plane Boing-9 has finished
+[INFO ] 04:16:20 [Thread-9] action.TerminalAction: Plane Boing-9 is cleaning by airport cleaning service
+[INFO ] 04:16:21 [Thread-7] action.TerminalAction: Plane is ready to accept passengers
+[INFO ] 04:16:21 [Thread-7] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:21 [Thread-4] action.TerminalAction: Plane is ready to accept passengers
+[INFO ] 04:16:21 [Thread-4] action.TerminalAction: Passengers walking through BRIDGE
+[INFO ] 04:16:21 [Thread-7] action.TerminalAction: Loading passengers to Boing-7 has started
+[INFO ] 04:16:21 [Thread-4] action.TerminalAction: Loading passengers to Boing-4 has started
+[INFO ] 04:16:21 [Thread-7] action.TerminalAction: Loading passengers to Boing-7 has finished
+[INFO ] 04:16:21 [Thread-7] action.TerminalAction: Plane Boing-7 has started preparing for departure
+[INFO ] 04:16:21 [Thread-4] action.TerminalAction: Loading passengers to Boing-4 has finished
+[INFO ] 04:16:21 [Thread-4] action.TerminalAction: Plane Boing-4 has started preparing for departure
+[INFO ] 04:16:21 [Thread-7] action.AirportActions: Plane Boing-7 has left from terminal
+[DEBUG] 04:16:21 [Thread-7] action.AirportActions: Now number of planes currently at airport is 2 after Boing-7 has left the terminal B
+[DEBUG] 04:16:21 [Thread-7] action.AirportActions: List of planes currently at airport: [Plane{name='Boing-9', maxCapacity=700, currentCapacity=655, flightRange=MEDIUM, flightType=INTERNATIONAL, terminalLanded=Terminal{name=C, isEmpty=false}}, Plane{name='Boing-4', maxCapacity=250, currentCapacity=245, flightRange=LOW, flightType=DOMESTIC, terminalLanded=Terminal{name=D, isEmpty=false}}]
+[INFO ] 04:16:21 [Thread-4] action.AirportActions: Plane Boing-4 has left from terminal
+[DEBUG] 04:16:21 [Thread-4] action.AirportActions: Now number of planes currently at airport is 1 after Boing-4 has left the terminal D
+[DEBUG] 04:16:21 [Thread-4] action.AirportActions: List of planes currently at airport: [Plane{name='Boing-9', maxCapacity=700, currentCapacity=655, flightRange=MEDIUM, flightType=INTERNATIONAL, terminalLanded=Terminal{name=C, isEmpty=false}}]
+[INFO ] 04:16:22 [Thread-9] action.TerminalAction: Plane is ready to accept passengers
+[INFO ] 04:16:22 [Thread-9] action.TerminalAction: Passengers from plane Boing-9 having passport control for border pass
+[INFO ] 04:16:22 [Thread-9] action.TerminalAction: Passengers walking through GROUND
+[INFO ] 04:16:23 [Thread-9] action.TerminalAction: Loading passengers to Boing-9 has started
+[INFO ] 04:16:23 [Thread-9] action.TerminalAction: Loading passengers to Boing-9 has finished
+[INFO ] 04:16:23 [Thread-9] action.TerminalAction: Plane Boing-9 has started preparing for departure
+[INFO ] 04:16:24 [Thread-9] action.AirportActions: Plane Boing-9 has left from terminal
+[DEBUG] 04:16:24 [Thread-9] action.AirportActions: Now number of planes currently at airport is 0 after Boing-9 has left the terminal C
+[DEBUG] 04:16:24 [Thread-9] action.AirportActions: List of planes currently at airport: []

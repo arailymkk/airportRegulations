@@ -1,0 +1,5 @@
+A, true, BRIDGE
+B, true, BRIDGE
+C, true, GROUND
+D, true, BRIDGE
+E, true, GROUND
